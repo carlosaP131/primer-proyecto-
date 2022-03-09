@@ -14,7 +14,7 @@ public class suma {
     	System. out. println( "suma  "+resul1  );
     	System. out. println( "resta  "+resul2  );
     	System. out. println( "multiplicacion  "+resul3  );
-    	System. out. println( "divicion  "+resul4  );
+    	System. out. println( "division  "+resul4  );
     	//int a = 16, b = 12, c = 0;
     //c = a + b;
     //System. out. println( "La suma de a y b es: " + c );
